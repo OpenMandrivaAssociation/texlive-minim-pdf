@@ -1,6 +1,6 @@
 Name:		texlive-minim-pdf
-Version:	62419
-Release:	2
+Version:	68612
+Release:	1
 Summary:	Low-level PDF integration for LuaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/minim-pdf
