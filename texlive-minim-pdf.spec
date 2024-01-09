@@ -1,5 +1,5 @@
 Name:		texlive-minim-pdf
-Version:	68612
+Version:	69352
 Release:	1
 Summary:	Low-level PDF integration for LuaTeX
 Group:		Publishing
